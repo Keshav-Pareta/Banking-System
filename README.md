@@ -2,7 +2,7 @@ Sparks Foundation Web Development Internship Project : Basic Banking System webs
 
 Stack used: Front-end : HTML, CSS, Bootstrap, Javascript Back-end : PHP Database : MySQL
 
-Database contains two Tables - Users Table & Transaction Table
+Database contains two Tables - Users Table & Transaction Table.
 
 User table have basic fields such as id, name,gender, email & current balance. Transaction table records all transfers happened along with their time.
 
